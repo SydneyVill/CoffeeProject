@@ -30,3 +30,24 @@
 .menu img{
     width: 100px;
 }
+.product{
+    background-color: rgb(209, 28, 28);
+}
+.product img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
+.product h1{
+    text-align: center;
+}
+.product p{
+    text-align: center;
+    font-size: larger;
+}
+.footer{
+    background-color: rgb(135, 0, 0);
+    text-align: center;
+    color:gold
+}
