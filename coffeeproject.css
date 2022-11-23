@@ -1,0 +1,32 @@
+.header{
+    background-color: rgb(138, 4, 4);
+    font-family: palatino;
+    font-size: 70px;
+    color: aliceblue;
+    text-align: center;
+}
+.header img{
+    float: left;
+    width: 95px;
+}
+.topnav{
+    background-color: rgb(158, 35, 35);
+    text-align: center;
+}
+.topnav a{
+    color:aliceblue;
+    text-align: center;
+    font-size: x-large;
+    
+}
+.general{
+    background-color: rgb(135, 32, 32);
+    color: azure;
+}
+.menu{
+    background-color: rgb(135, 32, 32);
+    color: azure;
+}
+.menu img{
+    width: 100px;
+}
