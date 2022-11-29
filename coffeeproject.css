@@ -24,9 +24,17 @@
     color: azure;
     font-size: xx-large;
 }
+.general a{
+    color: azure;
+    text-align: center;
+    font-size: large;
+}
 .menu{
     background-color: rgb(135, 32, 32);
     color: azure;
+}
+.menu a{
+    color:aliceblue;
 }
 .menu img{
     width: 100px;
